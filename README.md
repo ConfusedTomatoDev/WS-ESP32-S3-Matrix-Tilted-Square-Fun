@@ -3,12 +3,12 @@ Reading a 360 degree tilt angle to change the speed of a expanding and contracti
 <br>
 ![WS-ESP32-S3-Matrix-Tilted-Square-Fun](TiltedSquare.gif)
 <br>
-### Also a fun little learning project.
+### A fun little learning project.
 
 #### Things yet to try
 - Improve the code to be more sensitive to movement.
 - Allow certain movements to change the colors.
-- Using the spare button to control the display, turn it off and on.
+- Using a button on the ESP32-S3 to control the display, turn it off and on.
 
 #### Parts List
 <ol>
